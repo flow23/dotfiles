@@ -1,0 +1,13 @@
+[user]
+  name = 
+  email =
+[alias]
+  st = status
+  ci = commit
+  co = checkout
+  br = branch
+  aa = add --all
+  pom = push origin master
+  phm = push heroku master
+[core]
+  editor = nano
